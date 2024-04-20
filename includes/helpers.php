@@ -3,7 +3,7 @@ function createForumHeader($title, $username, $date, $commentCount, $latestCmDat
 {
     echo "<div class='forumHeader'>";
     echo "<div class ='fhTitle'>";
-    echo "<h2>$title</h2>";
+    echo "<p>$title</p>";
     echo "<div class='fhInfo'>";
     echo "<p>Posted by: $username</p>";
     echo "<p>Date: $date</p>";

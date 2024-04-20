@@ -1,0 +1,10 @@
+#subHeader a , #subHeader a.my-link{
+  color: white;
+}
+#subHeader{
+  display: flex;
+  background-color: #3F5E56;
+  margin: 0.5% -2%;
+  justify-content: space-between;
+  margin-top: -2.11%;
+}

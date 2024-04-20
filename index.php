@@ -15,6 +15,7 @@ include ("includes/helpers.php");
 <body>
     <?php include ("includes/header.php"); ?>
     <div id="MainBody">
+        <?php include ("includes/subHeader.php"); ?>
         <?php createForumHeader("My First Post", "John Doe", "2020-01-01", 5, "2020-01-02", "Jane Doe"); ?>
     </div>
     <?php include ("includes/footerBoth.php"); ?>
